@@ -21,7 +21,7 @@ and for the front-end. This repository is for the front-end, which will install 
 
   To install Pandasight, clone the main repository:
 
-    $ git clone https://github.com/pembo210/Pandasight.git && cd Pandasight
+    $ git clone https://github.com/justthedoctor/Pandasight.git && cd Pandasight
 
   Install dependencies:
 

@@ -6,7 +6,7 @@
     "name": "pembo210",
     "email": "pembo210@gmail.com"
   },
-  "repository": "git://github.com/pembo210/Pandasight.git",
+  "repository": "git://github.com/justthedoctor/Pandasight.git",
   "contributors": [
     {
       "name": "SS",
@@ -34,7 +34,7 @@
     "start": "INSIGHT_PUBLIC_PATH=public node node_modules/.bin/Pandasight-bitcore-api"
   },
   "dependencies": {
-    "Pandasight-api": "git://github.com/pembo210/Pandasight-api.git"
+    "Pandasight-api": "git://github.com/justthedoctor/Pandasight-api.git"
   },
   "devDependencies": {
     "bower": "~1.2.8",
